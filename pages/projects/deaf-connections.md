@@ -5,7 +5,8 @@ excerpt:
 lead: Deaf Connections 
 website: http://www.deafconnections.co.uk/
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April 2015
 end: March 2016
 award: £9959
@@ -19,6 +20,10 @@ permalink: /projects/deaf-connections/
 
 DEAFinitley Digital will support the Deaf Community to develop and advance their digital skills. We will have equipment available for the Deaf community to use during informal drop in sessions and will help the community to access and embrace modern digital tools. Our outcomes are improved access to free, accessible and culturally sensitive digital training and experience, increased confidence and reduced isolation for the Deaf community.
 
+##Our First Step!
+
+Today we installed our new wireless access point providing better wireless internet access to our cafe area.
+(https://scontent-lhr.xx.fbcdn.net/hphotos-xpa1/t31.0-8/11155171_1062281897120295_7081716107194903158_o.jpg)
 
 ## Project milestones
 
