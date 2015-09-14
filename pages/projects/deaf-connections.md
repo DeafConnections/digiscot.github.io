@@ -55,6 +55,13 @@ Fingers crossed our next three months run smoother than the past three.
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/Deafconnections/posts/1062281897120295:0" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Deafconnections/posts/1062281897120295:0"><p>Our lovely new Wireless Access Point behind reception providing wireless internet to the cafe area.</p>Posted by <a href="https://www.facebook.com/Deafconnections">Deaf Connections</a> on <a href="https://www.facebook.com/Deafconnections/posts/1062281897120295:0">Thursday, May 7, 2015</a></blockquote></div></div>
 
 
+### Our poster for Digital Participation
+
+[poster] (https://www.facebook.com/Deafconnections/photos/a.177139525634541.47994.168607513154409/1138859866129164/?type=1)
+
+### Our first customers!
+
+[clients] (https://www.facebook.com/Deafconnections/posts/1138872389461245)
 
 ## Evaluation
 
